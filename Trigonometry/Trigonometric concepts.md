@@ -40,3 +40,18 @@ I’m not sure if this explanation makes as much sense in writing as it does in 
   <img src="https://github.com/user-attachments/assets/75c44e24-1465-4fee-a0bb-d01b086e705e" width="300">
 </p>
 
+---
+
+*Date: 21 September 2024*
+
+Today, I continued my Algebra II course on Khan Academy, and one of the final units covers [Trigonometry](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:trig).
+
+*Time: 3:15 PM*
+
+I've finished the first part of the unit, including all the exercises. Two more parts to go.
+
+
+
+
+
+
