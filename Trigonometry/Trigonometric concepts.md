@@ -50,8 +50,24 @@ Today, I continued my Algebra II course on Khan Academy, and one of the final un
 
 I've finished the first part of the unit, including all the exercises. Two more parts to go.
 
+---
 
+*Date: 10 October 2024*
 
+I'm back from a longest vacation in my life, almost 2 weeks.
 
+Today I continued [Trigonometry](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:trig) unit in Algebra II course on Khan academy. Took some notes on Amplitude, Period and Midline of waves.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0012b4e4-fc38-47a6-82c9-21cf5e1728e4" width="500">
+</p>
+
+Also I found out about general form of a trig function, I will take notes about it later, but sharing the screenshot of the idea just in case I will forget:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/dcad43a9-d483-46cc-a438-195987ab9f3f" width="500">
+</p>
+
+---
 
 
