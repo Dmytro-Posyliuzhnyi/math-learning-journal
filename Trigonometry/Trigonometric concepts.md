@@ -5,7 +5,7 @@ I came across an interesting video on trigonometry concepts and took notes while
 
 [![Trigonometry Concepts – Don't Memorize! Visualize!](https://img.youtube.com/vi/mhd9FXYdf4s/0.jpg)](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 
-## **My Notes**
+Notes:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/71822bd7-f231-456d-b661-be2efd84c48a" width="300">
@@ -32,7 +32,7 @@ Since the hypotenuse in a unit circle equals 1, the equation sin θ = Opposite/H
 
 I’m not sure if this explanation makes as much sense in writing as it does in my head, but if anyone reading this is struggling with the same concept, feel free to reach out to me anywhere, and I'll explain it in simple terms.
 
-## **My Notes**
+Notes:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3683682a-0167-4015-992b-7ceef47fde7e" width="300">
@@ -52,7 +52,7 @@ I've finished the first part of the unit, including all the exercises. Two more 
 
 ---
 
-*Date: 10 October 2024*
+*Date: 8 October 2024*
 
 I'm back from a longest vacation in my life, almost 2 weeks.
 
@@ -70,4 +70,13 @@ Also I found out about general form of a trig function, I will take notes about 
 
 ---
 
+*Date: 9 October 2024*
 
+Today, I continued my Trigonometry studies and, as I mentioned yesterday, I came across the general form of a trigonometric function. Today, I examined it deeper. I took notes explaining the main components and equations, such as amplitude, period, horizontal shift (phase shift), vertical shift, and the midline. I also practiced drawing trigonometric functions based on their equations. Tomorrow, I plan to keep practicing and challenge myself to reverse the process by deriving the equation from a given trigonometric function.
+
+Here are my notes, which complement the ones I made yesterday:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a82c6ead-e4c8-46b3-8195-9f630d3c5b23" width="300">
+  <img src="https://github.com/user-attachments/assets/183d95e2-59ea-42a4-b14d-433568ec0748" width="300">
+</p>
