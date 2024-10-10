@@ -80,3 +80,17 @@ Here are my notes, which complement the ones I made yesterday:
   <img src="https://github.com/user-attachments/assets/a82c6ead-e4c8-46b3-8195-9f630d3c5b23" width="300">
   <img src="https://github.com/user-attachments/assets/183d95e2-59ea-42a4-b14d-433568ec0748" width="300">
 </p>
+
+---
+
+*Date: 10 October 2024*
+
+Today, I dedicated my time to practicing what I've learned about trigonometric functions. As I mentioned yesterday, I focused on getting equations given graphs of sinusoidal functions. I also faced some interesting challenges involving real-world applications. I won't lie, trigonometric functions were quite tough for me initially. Even today, there were moments where certain problems felt challenging. However, I'm proud that I pushed through, and by the end of the day, things started to click, making it much easier. If I would have stopped, I wouldn't have experienced this progress.
+
+Additionally, I have finally completed trigonometry unit in Algebra II course on Khan Academy. I have two more units left and Algebra II will be completed:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/6251444e-dfef-4ac5-8dee-b04aca809d62" width="500">
+</p>
+
+---
