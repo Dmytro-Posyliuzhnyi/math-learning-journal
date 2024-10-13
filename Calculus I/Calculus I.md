@@ -9,4 +9,12 @@ Today I returned back to [Calculus I](https://www.khanacademy.org/math/calculus-
   <img src="https://github.com/user-attachments/assets/a3177156-04d8-47ab-9666-1ac1bde34a3e" width="500">
 </p>
 
+*Time: 2:33 PM*
+
+I learned about the squeeze theorem and finished another section in the first unit of the Calculus I course.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/67975160-9ffc-4c95-b684-af0831b1411e" width="500">
+</p>
+
 ---
