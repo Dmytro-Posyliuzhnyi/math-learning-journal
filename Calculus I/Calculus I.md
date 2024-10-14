@@ -18,3 +18,9 @@ I learned about the squeeze theorem and finished another section in the first un
 </p>
 
 ---
+
+*Date: 14 October 2024*
+
+Today, I focused on learning about continuity over intervals, how to remove discontinuities, infinite limits, and limits approaching infinity. I still have a few more exercises to finish in the first unit, but I’m hopeful that I’ll complete it tomorrow and finally move on to the unit on derivatives.
+
+---
