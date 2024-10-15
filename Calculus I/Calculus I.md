@@ -24,3 +24,16 @@ I learned about the squeeze theorem and finished another section in the first un
 Today, I focused on learning about continuity over intervals, how to remove discontinuities, infinite limits, and limits approaching infinity. I still have a few more exercises to finish in the first unit, but I’m hopeful that I’ll complete it tomorrow and finally move on to the unit on derivatives.
 
 ---
+
+---
+
+*Date: 15 October 2024*
+
+Today, I spent time working on problems involving limits at infinity. I made sure to take notes on the key properties of limits, especially as I encountered challenges with some of the problems. Additionally, I wrote down some important rules for limits at infinity. You can find my notes below:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f075ce25-4270-4cb2-bf9b-7957329a91d8" width="300">
+  <img src="https://github.com/user-attachments/assets/2dbf61b4-fee4-422b-98d2-1740699fa4f4" width="300">
+</p>
+
+---
