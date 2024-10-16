@@ -37,3 +37,17 @@ Today, I spent time working on problems involving limits at infinity. I made sur
 </p>
 
 ---
+
+*Date: 16 October 2024*
+
+I’ve finally finished the first unit of the Calculus I course on Khan Academy. Today, I learned about the Intermediate Value Theorem and worked through a few related problems. As usual, there was a unit test at the end, and this one had 31 questions. I got 30 of them right, but I was able to take a mastery challenge afterward to improve my score, which I did!
+
+Tomorrow, I’m diving into the unit on derivatives, and I’m really excited for it.
+
+Here’s my current progress in the Calculus I course:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f77d28ee-1098-48e9-9622-1bf6624bdc68" width="500">
+</p>
+
+---
