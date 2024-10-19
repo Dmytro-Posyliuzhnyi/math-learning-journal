@@ -51,3 +51,9 @@ Here’s my current progress in the Calculus I course:
 </p>
 
 ---
+
+*Date: 19 October 2024*
+
+Today, I began learning about differentiation. I found out about various derivative notations and worked through some basic problems to get familiar with the concept. I haven’t taken any notes yet, as I want to grasp the idea of differentiation fully before writing down notes in a way that makes sense to me.
+
+---
