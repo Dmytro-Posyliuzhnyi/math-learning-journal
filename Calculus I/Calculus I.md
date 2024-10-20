@@ -12,6 +12,17 @@ Today, I continue exploring the concept of derivatives. I'll leave a reminder he
 
 I just finished the first section on derivatives and worked through a few quizzes with various problem types. I learned about the concepts of differentiability and continuity of functions. Later this evening, I'll take notes on everything I learned today.
 
+*Time: 9:23 PM*
+
+I completed taking notes on all the topics I had planned to cover, as mentioned earlier. I’ve explained them in a way that reflects my initial understanding of derivatives, as this type of explanation usually helps me grasp the concepts more effectively. Here are the notes:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a50b73f3-6d0e-46ac-8176-3309d642959a" width="200">
+  <img src="https://github.com/user-attachments/assets/f5a3d07d-9182-428e-ad82-4bb006320552" width="200">
+  <img src="https://github.com/user-attachments/assets/6ec41fd4-4f33-4f28-8a7d-2c7f5bad9a80" width="200">
+  <img src="https://github.com/user-attachments/assets/08d022de-e9e8-48c0-8681-78323600e596" width="200">
+</p>
+
 ---
 
 *Date: 19 October 2024*
