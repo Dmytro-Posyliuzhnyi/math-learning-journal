@@ -3,7 +3,7 @@
 
 *Time: 2:49 PM*
 
-Today, I continue exploring the concept of derivatives. I'll leave a reminder here to take notes on the definition of the derivative in terms of a limit.
+Today, I continue exploring the concept of derivatives. I'll leave a reminder here to take notes on the definition of the derivative in terms of a limit. I will also need to explain the concept of a derivative by describing it as finding the slope of a line. When two points are far apart, connecting them forms a secant line, and we calculate its slope. However, as the distance between the x-values (Δx) approaches zero, the secant line increasingly resembles a tangent line. At that point, we calculate the slope of the tangent line."
 
 ---
 
