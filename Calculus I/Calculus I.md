@@ -10,7 +10,7 @@ Today, I continue exploring the concept of derivatives. I'll leave a reminder he
 
 *Time: 6:05 PM*
 
-I just finished the first section on derivatives and worked through a few quizzes with various problem types. I found out the concepts of differentiability/continuity of functions. Later this evening, I'll take notes on everything I learned today.
+I just finished the first section on derivatives and worked through a few quizzes with various problem types. I learned about the concepts of differentiability and continuity of functions. Later this evening, I'll take notes on everything I learned today.
 
 ---
 
