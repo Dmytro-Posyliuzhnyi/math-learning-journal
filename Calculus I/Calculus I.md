@@ -8,6 +8,10 @@ Today, I continue exploring the concept of derivatives. I'll leave a reminder he
 - When two points are far apart, connecting them forms a secant line, and we calculate its slope. However, as the distance between the x-values (Δx) approaches zero, the secant line increasingly resembles a tangent line. At that point, we calculate the slope of the tangent line.
 - show an example for finding the derivative of x² at any point using the formal definition
 
+*Time: 6:05 PM*
+
+I just finished the first section on derivatives and worked through a few quizzes with various problem types. I found out the concepts of differentiability/continuity of functions. Later this evening, I'll take notes on everything I learned today.
+
 ---
 
 *Date: 19 October 2024*
