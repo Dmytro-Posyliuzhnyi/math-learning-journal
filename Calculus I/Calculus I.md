@@ -7,6 +7,10 @@ Today, I studied the power rule and worked through a few related problems. I'll 
 - differentiability and continuity
 - power rule
 - basic derivative rules
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/087f71da-6ddb-4ee5-a0a8-51e56bfe36fd" width="300">
+</p>
   
 ---
 
