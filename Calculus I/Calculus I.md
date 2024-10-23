@@ -3,8 +3,11 @@
 
 *Time: 7:08 PM*
 
-Today, I studied the power rule and worked through a few related problems.
-
+Today, I studied the power rule and worked through a few related problems. I'll again leave a reminder here to take notes on:
+- differentiability and continuity
+- power rule
+- basic derivative rules
+  
 ---
 
 *Date: 20 October 2024*
