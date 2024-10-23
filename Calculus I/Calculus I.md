@@ -9,9 +9,17 @@ Today, I studied the power rule and worked through a few related problems. I'll 
 - basic derivative rules
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/087f71da-6ddb-4ee5-a0a8-51e56bfe36fd" width="300">
+  <img src="https://github.com/user-attachments/assets/087f71da-6ddb-4ee5-a0a8-51e56bfe36fd" width="400">
 </p>
-  
+
+*Time: 11:43 PM*
+
+I just completed the second section on derivatives, which was mostly about the power rule and basic derivative rules. I went through various problem types and finished all the necessary exercises. Tomorrow, I plan to start by reviewing and taking notes on what I learned today and highlight the key points to remember.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9bc7c7e9-2376-461f-9543-6922bfdb2173" width="400">
+</p>
+
 ---
 
 *Date: 20 October 2024*
