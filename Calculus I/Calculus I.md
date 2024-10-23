@@ -1,4 +1,11 @@
 
+*Date: 23 October 2024*
+
+*Time: 7:08 PM*
+Today, I studied the power rule and worked through a few related problems.
+
+---
+
 *Date: 20 October 2024*
 
 *Time: 2:49 PM*
