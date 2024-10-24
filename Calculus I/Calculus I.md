@@ -1,4 +1,16 @@
 
+*Date: 24 October 2024*
+
+Today, I studied derivatives of trigonometric functions, derivative of $`e^x`$, and the derivative of natural logarithm. Unfortunately, I didn't have time to take all the notes I planned, so I'll probably take them at the end of the unit. Here's what I still need to note:
+
+- Derivatives of trigonometric functions
+- Derivative of $`e^x`$
+- Derivative of the natural logarithm
+
+Next, I want to dive into the proofs of concepts I covered today, finish the second unit, and write notes on everything I had planned.
+
+---
+
 *Date: 23 October 2024*
 
 *Time: 7:08 PM*
