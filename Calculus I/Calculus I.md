@@ -1,4 +1,10 @@
 
+*Date: 25 October 2024*
+
+Today, I spent some time going over the proofs for what I studied yesterday. I haven’t fully grasped the concepts yet since it was a late-night session, but I'll continue working on them tomorrow.
+
+---
+
 *Date: 24 October 2024*
 
 Today, I studied derivatives of trigonometric functions, derivative of $`e^x`$, and the derivative of natural logarithm. Unfortunately, I didn't have time to take all the notes I planned, so I'll probably take them at the end of the unit. Here's what I still need to note:
