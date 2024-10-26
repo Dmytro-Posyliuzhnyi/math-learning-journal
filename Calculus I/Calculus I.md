@@ -10,6 +10,14 @@ Additional notes I need to take:
 - Quotient rule and examples
 - Important trigonometric properties
 
+*Time: 5:10 PM*
+
+I just finished the second unit which was on derivatives in my Calculus I course. I worked through bunch of various exercises on finding derivatives for different types of functions. Before moving on to the third unit, I'm finally going to organize and take all the notes I've been planning over the past few days.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/541bf1a2-896b-4e52-874f-e7931e68568c" width="500">
+</p>
+
 ---
 
 *Date: 25 October 2024*
