@@ -1,4 +1,14 @@
 
+*Date: 26 October 2024*
+
+*Time: 11:10 AM*
+
+Additional notes I need to take:
+
+- Logarithm properties (including details specific to natural and common logarithms)
+
+---
+
 *Date: 25 October 2024*
 
 Today, I spent some time going over the proofs for what I studied yesterday. I haven’t fully grasped the concepts yet since it was a late-night session, but I'll continue working on them tomorrow.
