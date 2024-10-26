@@ -7,6 +7,7 @@ Additional notes I need to take:
 
 - Logarithm properties (including details specific to natural and common logarithms)
 - Product rule and examples
+- Quotient rule and examples
 
 ---
 
