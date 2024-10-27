@@ -14,6 +14,10 @@ I finally completed all the notes I had planned over the past few days.
   <img src="https://github.com/user-attachments/assets/ec75eca6-bc6e-493f-acd9-e7380b4740f5" width="200">
 </p>
 
+*Time: 3:29 PM*
+
+I continued learning today and went over the chain rule.
+
 ---
 
 *Date: 26 October 2024*
