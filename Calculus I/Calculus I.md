@@ -1,14 +1,31 @@
 
+*Date: 27 October 2024*
+
+*Time: 12:33 PM*
+
+I finally completed all the notes I had planned over the past few days.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/59647bb8-6932-4e14-a3e3-2eda5d1dd307" width="200">
+  <img src="https://github.com/user-attachments/assets/e3b84586-f250-4b08-bf72-4ee07535f7f4" width="200">
+  <img src="https://github.com/user-attachments/assets/df48c012-71fe-4d59-8af5-8bf2dbb62023" width="200">
+  <img src="https://github.com/user-attachments/assets/5990d8ba-811e-419d-9564-27d7bf897744" width="200">
+  <img src="https://github.com/user-attachments/assets/4170a3fa-486d-4469-bb02-4c403b780115" width="200">
+  <img src="https://github.com/user-attachments/assets/ec75eca6-bc6e-493f-acd9-e7380b4740f5" width="200">
+</p>
+
+---
+
 *Date: 26 October 2024*
 
 *Time: 11:10 AM*
 
 Additional notes I need to take:
 
-- Logarithm properties (including details specific to natural and common logarithms)
-- Product rule and examples
-- Quotient rule and examples
-- Important trigonometric properties
+- Logarithm properties (including details specific to natural and common logarithms) ✅
+- Product rule and examples ✅
+- Quotient rule and examples ✅
+- Important trigonometric properties ✅
 
 *Time: 5:10 PM*
 
@@ -30,9 +47,9 @@ Today, I spent some time going over the proofs for what I studied yesterday. I h
 
 Today, I studied derivatives of trigonometric functions, derivative of $`e^x`$, and the derivative of natural logarithm. Unfortunately, I didn't have time to take all the notes I planned, so I'll probably take them at the end of the unit. Here's what I still need to note:
 
-- Derivatives of trigonometric functions
-- Derivative of $`e^x`$
-- Derivative of the natural logarithm
+- Derivatives of trigonometric functions ✅
+- Derivative of $`e^x`$ ✅
+- Derivative of the natural logarithm ✅
 
 Next, I want to dive into the proofs of concepts I covered today, finish the second unit, and write notes on everything I had planned.
 
@@ -43,9 +60,9 @@ Next, I want to dive into the proofs of concepts I covered today, finish the sec
 *Time: 7:08 PM*
 
 Today, I studied the power rule and worked through a few related problems. I'll again leave a reminder here to take notes on:
-- differentiability and continuity
-- power rule
-- basic derivative rules
+- differentiability and continuity ✅
+- power rule ✅
+- basic derivative rules ✅
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/087f71da-6ddb-4ee5-a0a8-51e56bfe36fd" width="400">
