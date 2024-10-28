@@ -1,4 +1,17 @@
 
+*Date: 28 October 2024*
+
+Today, I’m continuing my study of the chain rule. I’ve taken some notes on it, as well as on derivative of $`a^x`$ and $`log_ax`$:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ca989844-ca28-4967-9278-f75d4d26e088" width="300">
+  <img src="https://github.com/user-attachments/assets/550bc908-9f2e-4162-a7a9-4431d3ab3c02" width="300">
+</p>
+
+Tomorrow, I’ll look more closely at the proofs for what I learned today.
+
+---
+
 *Date: 27 October 2024*
 
 *Time: 12:33 PM*
