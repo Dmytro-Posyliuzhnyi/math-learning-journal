@@ -1,4 +1,17 @@
 
+*Date: 29 October 2024*
+
+I've learned about implicit differentiation, solved a few problems, and took notes it:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/be965141-567b-4d76-a757-edd81a3102b4" width="200">
+</p>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8c02bc3e-829b-4e37-b2eb-7ef5d43a2c9d" width="200">
+</p>
+
+---
+
 *Date: 28 October 2024*
 
 Today, I’m continuing my study of the chain rule. I’ve taken some notes on it, as well as on derivative of $`a^x`$ and $`log_ax`$:
