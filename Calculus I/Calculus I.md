@@ -1,4 +1,21 @@
 
+*Date: 30 October 2024*
+
+Today, I learned about the derivatives of inverse functions and completed the first part of Unit 3 in my Calculus I course:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3219e885-cc85-423d-97d3-f52e86728090" width="500">
+</p>
+
+And my notes from today:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f8eead2f-de5c-4bb9-bf60-69ddbd1a570c" width="300">
+  <img src="https://github.com/user-attachments/assets/8a79c747-8b30-4633-a536-70ba75520465" width="300">
+</p>
+
+---
+
 *Date: 29 October 2024*
 
 I've learned about implicit differentiation, solved a few problems, and took notes it:
