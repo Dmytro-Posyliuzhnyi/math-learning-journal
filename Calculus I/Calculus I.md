@@ -5,6 +5,10 @@
 
 Today, I focused on solving different derivative problems and practicing what I’ve previously learned.
 
+*Time: 9:52 PM*
+
+Learned about second derivatives and solved a couple of problems related to it.
+
 ---
 
 *Date: 30 October 2024*
