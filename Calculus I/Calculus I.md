@@ -1,4 +1,22 @@
 
+*Date: 1 November 2024*
+
+*Time: 1:41 PM*
+
+Today, I completed the third unit called "Derivatives: Chain Rule and Other Advanced Topics" in the Calculus 1 course on Khan Academy:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/467ee7af-c0b5-478d-9d72-1a092863d82b" width="300">
+</p>
+
+I also took some notes on second derivatives:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/63b7af30-fd13-431e-adee-19a4815d5523" width="300">
+</p>
+
+---
+
 *Date: 31 October 2024*
 
 *Time: 8:24 PM*
