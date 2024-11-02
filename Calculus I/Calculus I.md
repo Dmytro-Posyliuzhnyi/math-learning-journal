@@ -1,4 +1,12 @@
 
+*Date: 2 November 2024*
+
+*Time: 1:26 PM*
+
+Today, I started unit 4 of my calculus 1 course, which focuses on the application of derivatives. I worked on some problems, like interpreting the meaning of derivatives in various contexts, etc.
+
+---
+
 *Date: 1 November 2024*
 
 *Time: 1:41 PM*
