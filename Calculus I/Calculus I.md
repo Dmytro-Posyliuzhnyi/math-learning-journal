@@ -1,4 +1,12 @@
 
+*Date: 3 November 2024*
+
+*Time: 10:59 PM*
+
+Today I only had a little bit of free time, but I decided to solve a few problems related to applications of derivatives. I won't lie, I find this challenging. While calculating different types of derivatives can be straightforward, applying that knowledge to real-world problems feels much harder for me. I think it's just a matter of gaining experience with these types of questions, so most likely it will get easier over time, just like anything else.
+
+---
+
 *Date: 2 November 2024*
 
 *Time: 1:26 PM*
