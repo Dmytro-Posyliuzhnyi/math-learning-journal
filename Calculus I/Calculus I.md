@@ -1,4 +1,26 @@
 
+*Date: 6 November 2024*
+
+Today, I continued studying the topic I had been struggling with, and finally, it clicked. I realized a couple of things that were preventing me from understanding related rates problems.
+
+Here's an example of what I realized:
+
+Imagine we have a right triangle, and one of its sides is growing at a rate of 1 cm per second. We need to find the rate of change of the hypotenuse's length. We can use the Pythagorean theorem, which states that $`a^2 + b^2 = c^2`$.
+
+In our case, we know that one of the sides (let's say $`a`$) is increasing at 1 cm per second, so $`\frac{da}{dt} = 1`$. We need to find $`\frac{dc}{dt}`$, the rate at which the hypotenuse $`c`$ is changing. To do this, we differentiate both sides of the equation with respect to time $`t`$, treating each variable as a function of time and applying the chain rule:
+
+$`2a \frac{da}{dt} + 2b \frac{db}{dt} = 2c \frac{dc}{dt}`$
+
+**Important note**: only $`t`$ can be differentiated directly using rules like the power rule; other variables should be differentiated as functions of $t$.
+
+Notes to take tomorrow:
+
+- Explain in my own words how to differentiate with related rates using the example of changing geometric figures.
+
+Tomorrow, I also want to complete the second part of Unit 4, where I have one more quiz left.
+
+---
+
 *Date: 5 November 2024*
 
 Since it's my first few days at my new job, I have very little free time, but today I still continued solving problems related to applications of derivatives.
