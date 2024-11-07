@@ -8,6 +8,8 @@ Today, I finished the second part of unit 4 in my Calculus 1 course. As I mentio
   <img src="https://github.com/user-attachments/assets/e200d6b0-732e-4bc8-b305-0c95d4b0cdd2" width="300">
 </p>
 
+I've also started learning about local linearity and will soon start studying about L'Hôpital's rule.
+
 ---
 
 *Date: 6 November 2024*
