@@ -1,4 +1,15 @@
 
+*Date: 7 November 2024*
+ 
+Today, I finished the second part of unit 4 in my Calculus 1 course. As I mentioned yesterday, I’ve taken all the notes I wanted to take:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ef5ede98-983f-4e3f-bc22-aff1b9f65ad3" width="300">
+  <img src="https://github.com/user-attachments/assets/e200d6b0-732e-4bc8-b305-0c95d4b0cdd2" width="300">
+</p>
+
+---
+
 *Date: 6 November 2024*
 
 Today, I continued studying the topic I had been struggling with, and finally, it clicked. I realized a couple of things that were preventing me from understanding related rates problems.
