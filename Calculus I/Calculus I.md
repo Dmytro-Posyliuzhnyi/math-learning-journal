@@ -1,4 +1,10 @@
 
+*Date: 8 November 2024*
+
+Today, I kept working on understanding and solving problems related to local linearity and L'Hôpital's rule. Tomorrow, my goal is to complete unit 4 and take notes on what I learned today.
+
+---
+
 *Date: 7 November 2024*
  
 Today, I finished the second part of unit 4 in my Calculus 1 course. As I mentioned yesterday, I’ve taken all the notes I wanted to take:
