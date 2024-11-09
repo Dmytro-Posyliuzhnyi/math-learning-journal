@@ -1,4 +1,14 @@
 
+*Date: 9 November 2024*
+
+I’ve finally finished unit 4, and although it was shorter than previous ones, it was definitely challenging for me, personally, especially when it came to interpreting derivatives in real-life contexts. Closer the end, though, I noticed how I've improved with those types of problems, proving that it really came down to practice. This experience, once again, shows that the initial discomfort of learning something entirely new is just my brain adjusting, and overcoming that phase is only a matter of time.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7a56efc9-8ab0-476d-a32e-7f0d7fc2432d" width="500">
+</p>
+
+---
+
 *Date: 8 November 2024*
 
 Today, I kept working on understanding and solving problems related to local linearity and L'Hôpital's rule. Tomorrow, my goal is to complete unit 4 and take notes on what I learned today.
