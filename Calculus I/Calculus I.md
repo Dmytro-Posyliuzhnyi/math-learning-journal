@@ -10,6 +10,8 @@ Today, I took notes on what I’ve recently learned about local linearity and L'
 
 I also started unit 5, which focuses on function analysis, starting with the mean value theorem.
 
+---
+
 *Date: 9 November 2024*
 
 I’ve finally finished unit 4, and although it was shorter than previous ones, it was definitely challenging for me, personally, especially when it came to interpreting derivatives in real-life contexts. Closer the end, though, I noticed how I've improved with those types of problems, proving that it really came down to practice. This experience, once again, shows that the initial discomfort of learning something entirely new is just my brain adjusting, and overcoming that phase is only a matter of time.
