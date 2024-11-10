@@ -10,6 +10,12 @@ Today, I took notes on what I’ve recently learned about local linearity and L'
 
 I also started unit 5, which focuses on function analysis, starting with the mean value theorem.
 
+I need to take notes on:
+
+- Mean value theorem
+- Extreme value theorem
+- Critical points and how to find them
+
 ---
 
 *Date: 9 November 2024*
