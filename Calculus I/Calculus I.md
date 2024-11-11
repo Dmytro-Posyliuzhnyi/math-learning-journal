@@ -7,6 +7,7 @@ Additional notes I need to take:
 
 - Identifying intervals where a function is increasing or decreasing
 - Determining relative and absolute minima and maxima
+- Concavity and inflection points
 
 ---
 
