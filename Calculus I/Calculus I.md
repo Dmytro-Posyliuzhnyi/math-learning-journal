@@ -1,4 +1,15 @@
 
+*Date: 11 November 2024*
+
+Today, I finished the first section of unit 5.
+
+Additional notes I need to take:
+
+- Identifying intervals where a function is increasing or decreasing
+- Determining relative and absolute minima and maxima
+
+---
+
 *Date: 10 November 2024*
 
 Today, I took notes on what I’ve recently learned about local linearity and L'Hôpital's rule.
