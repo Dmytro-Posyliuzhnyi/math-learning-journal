@@ -1,12 +1,26 @@
 
+*Date: 12 November 2024*
+
+Today, I took notes on what I've learned over the past few days: the Mean Value Theorem, the Extreme Value Theorem, critical points, and how to identify intervals where a function is increasing or decreasing:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c7bd7f92-8a28-440f-9d6e-f4f39b99ecc2" width="180">
+  <img src="https://github.com/user-attachments/assets/423ea464-82eb-4965-ad33-d41abe1c61d5" width="180">
+  <img src="https://github.com/user-attachments/assets/33f591a6-1fd2-4370-8bed-d65c124735dd" width="180">
+  <img src="https://github.com/user-attachments/assets/1828c545-187a-46a1-8c82-483dda0df80d" width="180">
+  <img src="https://github.com/user-attachments/assets/3d961cef-ecc4-44e5-aa63-e004ed328a07" width="180">
+</p>
+
+---
+
 *Date: 11 November 2024*
 
 Today, I finished the first section of unit 5.
 
 Additional notes I need to take:
 
-- Identifying intervals where a function is increasing or decreasing
-- Determining relative and absolute minima and maxima
+- Identifying intervals where a function is increasing or decreasing ✅
+- Determining relative and absolute minima and maxima ✅
 - Concavity and inflection points
 
 ---
@@ -24,9 +38,9 @@ I also started unit 5, which focuses on function analysis, starting with the mea
 
 I need to take notes on:
 
-- Mean value theorem
-- Extreme value theorem
-- Critical points and how to find them
+- Mean value theorem ✅
+- Extreme value theorem ✅
+- Critical points and how to find them ✅
 
 ---
 
