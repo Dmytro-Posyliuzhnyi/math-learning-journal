@@ -1,4 +1,10 @@
 
+*Date: 14 November 2024*
+
+Today, I’m continuing to learn how to analyze concavity and identify inflection points. Recently, I've noticed that some topics seem harder than expected, possibly because I study late at night after work when my brain is a bit fatigued, or maybe these concepts just take more time for me to grasp. I'll keep studying this and other function-analysis topics until they "click" in my mind, allowing me to work through them more smoothly.
+
+---
+
 *Date: 12 November 2024*
 
 Today, I took notes on what I've learned over the past few days: the Mean Value Theorem, the Extreme Value Theorem, critical points, and how to identify intervals where a function is increasing or decreasing:
