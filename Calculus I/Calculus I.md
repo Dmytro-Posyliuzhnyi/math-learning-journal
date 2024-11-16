@@ -1,6 +1,8 @@
 
 *Date: 16 November 2024*
 
+*Time: 1:29 PM*
+
 Today I took notes on concavity and inflection points:
 
 <p align="left">
@@ -9,6 +11,14 @@ Today I took notes on concavity and inflection points:
 </p>
 
 Later on I will continue the unit on function analysis.
+
+*Time: 23:37 PM*
+
+I've completed the second part of unit 5 in my Calculus 1 course. Just a few more lessons to go, and then I'll finally begin the unit on integrals.
+
+I will need to take notes on:
+
+- Second derivative test
 
 ---
 
