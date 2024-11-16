@@ -1,4 +1,17 @@
 
+*Date: 16 November 2024*
+
+Today I took notes on concavity and inflection points:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9490986e-3637-4457-987e-4af43e33374d" width="300">
+  <img src="https://github.com/user-attachments/assets/152f265b-6428-4342-9c8a-d7e328a8e60a" width="300">
+</p>
+
+Later on I will continue the unit on function analysis.
+
+---
+
 *Date: 14 November 2024*
 
 Today, I’m continuing to learn how to analyze concavity and identify inflection points. Recently, I've noticed that some topics seem harder than expected, possibly because I study late at night after work when my brain is a bit fatigued, or maybe these concepts just take more time for me to grasp. I'll keep studying this and other function-analysis topics until they "click" in my mind, allowing me to work through them more smoothly.
@@ -27,7 +40,7 @@ Additional notes I need to take:
 
 - Identifying intervals where a function is increasing or decreasing ✅
 - Determining relative and absolute minima and maxima ✅
-- Concavity and inflection points
+- Concavity and inflection points ✅
 
 ---
 
