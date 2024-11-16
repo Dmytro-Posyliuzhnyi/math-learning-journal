@@ -1,4 +1,10 @@
 
+*Date: 17 November 2024*
+
+Started learning and solving problems related to optimization.
+
+---
+
 *Date: 16 November 2024*
 
 *Time: 1:29 PM*
