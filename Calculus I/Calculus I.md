@@ -1,7 +1,17 @@
 
 *Date: 17 November 2024*
 
+*Time: 12:55 AM*
+
 Started learning and solving problems related to optimization.
+
+*Time: 14:25 PM*
+
+Completed the unit 5: 
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/06f81e63-653b-4c10-a60a-95aad46f17c1" width="500">
+</p>
 
 ---
 
