@@ -1,4 +1,10 @@
 
+*Date: 18 November 2024*
+
+Today, while traveling to Warsaw by train, I started studying unit 6 on integral calculus.
+
+---
+
 *Date: 17 November 2024*
 
 *Time: 12:55 AM*
