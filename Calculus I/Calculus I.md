@@ -1,4 +1,13 @@
 
+*Date: 19 November 2024*
+
+Today, I made small progress in the unit on integrals and learned about Riemann sums. Leaving the notes I will need to take later on:
+
+- exploring the accumulation of change
+- Riemann sums
+
+---
+
 *Date: 18 November 2024*
 
 Today, while traveling to Warsaw by train, I started studying unit 6 on integral calculus.
