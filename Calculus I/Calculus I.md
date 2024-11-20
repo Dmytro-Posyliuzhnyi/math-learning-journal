@@ -1,4 +1,14 @@
 
+*Date: 20 November 2024*
+
+I continue the unit on integrals. Additional notes I will need to take later on:
+
+- Summation notation
+- Comparing trapezoidal sums and Riemann sums
+- Formulas for midpoint, trapezoidal, left, and right Riemann sums expressed in summation notation (e.g., midpoint uses the center of each subinterval: starting point + $`\frac{\Delta x}{2}`$)
+  
+---
+
 *Date: 19 November 2024*
 
 Today, I made small progress in the unit on integrals and learned about Riemann sums. Leaving the notes I will need to take later on:
