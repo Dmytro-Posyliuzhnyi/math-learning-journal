@@ -1,4 +1,20 @@
 
+*Date: 21 November 2024*
+
+Today, I completed the first section of unit 6 on integrals and took notes of all the key points I learned in this section:
+
+
+<p align="left">
+  <img width="258" alt="Page 1" src="https://github.com/user-attachments/assets/19a4b9a7-a45e-4c4d-ae4a-63f40c340a1b">
+  <img width="268" alt="Page 2" src="https://github.com/user-attachments/assets/b049bac8-766f-42f6-9d44-eeebfa94b924">
+  <img width="261" alt="Page 3" src="https://github.com/user-attachments/assets/7aca7ef5-ffe2-4b34-9113-da66cdd1e1e6">
+  <img width="266" alt="Page 4" src="https://github.com/user-attachments/assets/8d47dc88-6d95-4c2f-aea6-56e059e6fc06">
+  <img width="268" alt="Page 5" src="https://github.com/user-attachments/assets/3d94574d-131b-4085-a6a1-cae548584800">
+  <img width="263" alt="Page 6" src="https://github.com/user-attachments/assets/a1e33ece-c505-475f-a762-b5e3cdb7c7a4">
+</p>
+
+---
+
 *Date: 20 November 2024*
 
 I continue the unit on integrals. Additional notes I will need to take later on:
