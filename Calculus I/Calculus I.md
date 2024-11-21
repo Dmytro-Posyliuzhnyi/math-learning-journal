@@ -1,4 +1,10 @@
 
+*Date: 22 November 2024*
+
+I began the second section of unit 6, which started from the fundamental theorem of Calculus. I also did a bit of research to better understand why it works the way it does.
+
+---
+
 *Date: 21 November 2024*
 
 Today, I completed the first section of unit 6 on integrals and took notes of all the key points I learned in this section:
