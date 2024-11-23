@@ -1,4 +1,22 @@
 
+*Date: 23 November 2024*
+
+Today, I continued the unit on integrals and at the end of the day spent some time on making detailed notes about:
+
+- definite integral properties
+- fundamental theorem of calculus
+- reverse power rule
+- common integrals
+- u-substitution
+  
+<img width="301" alt="Page 1" src="https://github.com/user-attachments/assets/75561670-f529-45e7-9989-c06cec7a25cc">
+<img width="308" alt="Page 2" src="https://github.com/user-attachments/assets/2c264971-74cd-43c8-87f7-4685b45560e7">
+<img width="304" alt="Page 3" src="https://github.com/user-attachments/assets/2cbc5550-13ee-43e5-959b-4be8cae53816">
+<img width="294" alt="Page 4" src="https://github.com/user-attachments/assets/c77823ba-99f8-45cd-9712-7df3dc277b94">
+<img width="299" alt="Page 5" src="https://github.com/user-attachments/assets/2418d269-c02e-4bca-a7dd-2ea2dd1db8eb">
+
+---
+
 *Date: 22 November 2024*
 
 I began the second section of unit 6, which started from the fundamental theorem of Calculus. I also did a bit of research to better understand why it works the way it does.
