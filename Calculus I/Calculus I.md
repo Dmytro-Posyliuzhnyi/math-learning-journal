@@ -1,4 +1,12 @@
 
+*Date: 24 November 2024*
+
+I've been working through the final section of the unit on integrals, and it has gone quite smoothly so far. Just a couple of lessons left to finish:
+
+<img width="699" alt="Page 1" src="https://github.com/user-attachments/assets/ad664bae-11c4-462f-819f-ffd2dfd218e6">
+
+---
+
 *Date: 23 November 2024*
 
 Today, I continued the unit on integrals and at the end of the day spent some time on making detailed notes about:
