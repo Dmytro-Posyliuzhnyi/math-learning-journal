@@ -1,9 +1,18 @@
 
 *Date: 24 November 2024*
 
+*Time: 6:24 PM*
+
 I've been working through the final section of the unit on integrals, and it has gone quite smoothly so far. Just a couple of lessons left to finish:
 
-<img width="699" alt="Page 1" src="https://github.com/user-attachments/assets/ad664bae-11c4-462f-819f-ffd2dfd218e6">
+<img width="700" alt="Page 1" src="https://github.com/user-attachments/assets/ad664bae-11c4-462f-819f-ffd2dfd218e6">
+
+
+*Time: 9:09 PM*
+
+I just finished the unit on integrals. Tomorrow, I'll double-check to see if I missed any important notes, and then I'll move on to the unit on differential equations:
+
+<img width="700" alt="Completed the unit on integral" src="https://github.com/user-attachments/assets/f9a8704c-5ba7-450a-b7d2-203be05b1878">
 
 ---
 
