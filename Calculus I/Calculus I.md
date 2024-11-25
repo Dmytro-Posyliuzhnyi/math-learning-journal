@@ -1,4 +1,12 @@
 
+*Date: 25 November 2024*
+
+*Time: 8:11 AM*
+
+Started unit 7 on differential equations and solved a few introductory problems.
+
+---
+
 *Date: 24 November 2024*
 
 *Time: 6:24 PM*
