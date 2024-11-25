@@ -5,6 +5,10 @@
 
 Started unit 7 on differential equations and solved a few introductory problems.
 
+*Time: 21:59 PM*
+
+Completed the first section of the unit on differential equations and have moved on to separable differential equations. It seems that the Calculus 1 course on Khan Academy only covers an introduction to differential equations, but it's still cool. At least I now know how to solve basic ones and have a general idea of their applications, so I can always revisit the topic later to explore it in more depth.
+
 ---
 
 *Date: 24 November 2024*
