@@ -1,4 +1,12 @@
 
+*Date: 26 November 2024*
+
+Today, I completed unit 7, which covered differential equations and which I started yesterday. It was quite basic, but as always, I struggled with applications and modeling. The next unit is on applications of integrals, so I will most likely face some difficulties as well, but I guess it is a great opportunity to overcome this weakness.
+
+<img width="700" alt="Khan" src="https://github.com/user-attachments/assets/ac1a8447-7aa8-4835-8be4-ecbe45741f41">
+
+---
+
 *Date: 25 November 2024*
 
 *Time: 8:11 AM*
