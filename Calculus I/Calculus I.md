@@ -1,4 +1,12 @@
 
+*Date: 27 November 2024*
+
+As I mentioned yesterday, I’m starting the unit on applications of integrals. Today, I started from learning about the average value of a function over an interval, the mean value theorem for integrals, and solving a couple of motion-related problems.
+
+Over the last couple of days, I've also been thinking about the next course I'll take after completing my Calculus I course. I currently have two options: Calculus II and Linear Algebra. The decision depends heavily on the goals I'm trying to achieve, and to be honest, they're not yet clear enough to provide an immediate answer. I'll take some time to consider this more carefully. Maybe I'll even start both courses simultaneously, as they don't seem to depend on each other. Considering that college students often take multiple courses at once, it shouldn't be too difficult for me either - I just need to find enough free time.
+
+---
+
 *Date: 26 November 2024*
 
 Today, I completed unit 7, which covered differential equations and which I started yesterday. It was quite basic, but as always, I struggled with applications and modeling. The next unit is on applications of integrals, so I will most likely face some difficulties as well, but I guess it is a great opportunity to overcome this weakness.
