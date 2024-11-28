@@ -5,6 +5,12 @@
 
 Completed the first section of last unit of Calculus 1 course.
 
+*Time: 10:48 PM*
+
+Solved a couple more problems, and I have just a few more lessons to complete the last unit, take the unit test, and finish the course:
+
+<img width="700" alt="Calculus 1" src="https://github.com/user-attachments/assets/29a514d6-ccb8-4739-8ae5-c712ea693d6a">
+
 ---
 
 *Date: 27 November 2024*
