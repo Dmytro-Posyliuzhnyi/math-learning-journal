@@ -1,4 +1,12 @@
 
+*Date: 28 November 2024*
+
+*Time: 8:13 PM*
+
+Completed the first section of last unit of Calculus 1 course.
+
+---
+
 *Date: 27 November 2024*
 
 As I mentioned yesterday, I’m starting the unit on applications of integrals. Today, I started from learning about the average value of a function over an interval, the mean value theorem for integrals, and solving a couple of motion-related problems.
