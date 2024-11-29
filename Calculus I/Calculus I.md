@@ -11,6 +11,13 @@ I finished the second section of the last unit in my Calculus 1 course. As you c
 
 <img width="700" alt="Desmos" src="https://github.com/user-attachments/assets/dbfc0a20-0eb3-417f-bce1-4ab42842b4bc">
 
+Tomorrow, I plan to finish the last section of the course, and here is what I'm planning to note down so far:
+ - Introduction to differential equations, with a couple of examples on how to solve them
+ - Average value of a function
+ - Mean value theorem for integrals
+ - Area between two curves
+ - Horizontal areas between curves
+
 ---
 
 *Date: 28 November 2024*
