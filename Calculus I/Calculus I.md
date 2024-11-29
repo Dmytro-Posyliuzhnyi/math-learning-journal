@@ -1,7 +1,15 @@
 
 *Date: 29 November 2024*
 
+*Time: 9:43 PM*
+
 Today I solved a couple of quite complicated problems (at least they are complicated for me at this point) related to finding the area between two curves, including the horizontal areas between curves with respect to $`y`$-axis, instead of $`x`$-axis.
+
+*Time: 11:30 PM*
+
+I finished the second section of the last unit in my Calculus 1 course. As you can see from my Desmos screenshot, things are getting more complicated, and I actually enjoy that. Honestly, Desmos is such a great tool for visualizing functions and solving complex problems. I really like it and am curious about how it's built and works behind the scenes as it seems to be quite efficient.
+
+<img width="700" alt="Desmos" src="https://github.com/user-attachments/assets/dbfc0a20-0eb3-417f-bce1-4ab42842b4bc">
 
 ---
 
