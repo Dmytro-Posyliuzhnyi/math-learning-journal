@@ -1,4 +1,10 @@
 
+*Date: 29 November 2024*
+
+Today I solved a couple of quite complicated problems (at least they are complicated for me at this point) related to finding the area between two curves, including the horizontal areas between curves with respect to $`y`$-axis, instead of $`x`$-axis.
+
+---
+
 *Date: 28 November 2024*
 
 *Time: 8:13 PM*
