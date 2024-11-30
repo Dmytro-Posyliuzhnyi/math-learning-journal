@@ -12,6 +12,12 @@ Additional notes I need to take:
 
 The last unit of the course is completed.
 
+*Time: 5:52 PM*
+
+The unit test is finished, and the Calculus 1 course is officially completed.
+
+<img width="700" alt="Desmos" src="https://github.com/user-attachments/assets/d2baef11-aa14-4389-a077-f781d26bfcf1">
+
 ---
 
 *Date: 29 November 2024*
