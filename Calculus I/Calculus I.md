@@ -6,6 +6,11 @@
 Additional notes I need to take:
 
 - Volume of Revolution: Disk Method
+- Washer method
+
+*Time: 4:11 PM*
+
+The last unit of the course is completed.
 
 ---
 
