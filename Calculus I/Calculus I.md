@@ -1,4 +1,14 @@
 
+*Date: 30 November 2024*
+
+*Time: 1:42 PM*
+
+Additional notes I need to take:
+
+- Volume of Revolution: Disk Method
+
+---
+
 *Date: 29 November 2024*
 
 *Time: 9:43 PM*
