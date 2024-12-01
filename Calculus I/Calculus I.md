@@ -5,6 +5,18 @@
 
 I've already made notes on 5 out of 7 topics, so in the morning I'll need to cover the last two.
 
+*Time: 1:10 PM*
+
+Took notes on the last 2 topics. Here are all the notes I took:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/66f32320-1784-43be-81a1-f52c371b4e83">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/2b15052c-5478-45f8-a1f8-cea0e7c5e77b">
+<img width="300" alt="Page 3" src="https://github.com/user-attachments/assets/dd513dd8-7c7c-4f93-8154-e3e5ee85d2eb">
+<img width="300" alt="Page 4" src="https://github.com/user-attachments/assets/bd6bda4e-328f-4662-9cf9-d39ec2196350">
+<img width="300" alt="Page 5" src="https://github.com/user-attachments/assets/28da089a-b669-455e-a5a5-19eb93f5bfa6">
+<img width="300" alt="Page 6" src="https://github.com/user-attachments/assets/f789055d-75c6-4515-8120-cd2e6ec38dec">
+<img width="300" alt="Page 7" src="https://github.com/user-attachments/assets/ab65bb09-dbdc-4ae3-b3be-5a31d8d67b82">
+
 ---
 
 *Date: 30 November 2024*
@@ -13,8 +25,8 @@ I've already made notes on 5 out of 7 topics, so in the morning I'll need to cov
 
 Additional notes I need to take:
 
-- Volume of Revolution: Disk Method
-- Washer method
+- Volume of Revolution: Disk Method ✅
+- Washer method ✅
 
 *Time: 4:11 PM*
 
