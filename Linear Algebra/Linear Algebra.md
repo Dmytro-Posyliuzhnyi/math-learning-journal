@@ -19,6 +19,8 @@ While searching for info on Linear Algebra, I found this cool [document](https:/
 
 *Time: 9:42 PM*
 
+[Math Course Flowchart](https://web.stanford.edu/dept/mathematics/MathCourseFlowchart.html)
+
 <img width="700" alt="Flowchart" src="https://github.com/user-attachments/assets/d8ed1ef7-7e2a-4978-83c5-d175baf124f1">
 
 ---
