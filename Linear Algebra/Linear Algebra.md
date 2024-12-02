@@ -17,4 +17,8 @@ At the start, I'll probably have a bunch of notes to take, so here are some of t
 
 While searching for info on Linear Algebra, I found this cool [document](https://web.stanford.edu/class/nbio228-01/handouts/Ch4_Linear_Algebra.pdf) from Stanford that explains the basic concepts. I'll definitely use it for my notes and maybe find more stuff like it!
 
+*Time: 9:42 PM*
+
+<img width="700" alt="Flowchart" src="https://github.com/user-attachments/assets/d8ed1ef7-7e2a-4978-83c5-d175baf124f1">
+
 ---
