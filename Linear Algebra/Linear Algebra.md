@@ -1,4 +1,14 @@
 
+Date: 3 December 2024
+
+Today I took notes on the topics I've mentioned yesterday and also I watched a couple of videos from Linear Algebra course.
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/300c786d-dcc6-4b20-943d-41aeeeacaded">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/80867d6b-4d71-43d0-b947-d6f148776b0f">
+<img width="300" alt="Page 3" src="https://github.com/user-attachments/assets/39f85cef-7f50-4889-b3a0-e62622de61fc">
+
+---
+
 Date: 2 December 2024
 
 *Time: 5:47 PM*
@@ -9,9 +19,9 @@ After completing a Calculus I course, I decided to start learning Linear Algebra
 
 At the start, I'll probably have a bunch of notes to take, so here are some of them:
 
-- intro to vectors (magnitude and direction)
-- real coordinate spaces
-- adding vectors (both algebraically and graphically)
+- intro to vectors (magnitude and direction) ✅
+- real coordinate spaces ✅
+- adding vectors (both algebraically and graphically) ✅
 
 *Time: 9:14 PM*
 
