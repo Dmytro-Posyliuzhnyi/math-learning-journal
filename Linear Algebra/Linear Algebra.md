@@ -1,5 +1,15 @@
 
-Date: 3 December 2024
+*Date: 5 December 2024*
+
+Today, I spent a little time studying math. I learned about unit vectors, but I'll need to gather more information on the topic because later on during the exercises some aspects weren't entirely clear. I also learned about the parallelogram rule for vector addition. To make sure I don't forget to take notes, I'll leave a list here:
+
+- unit vector
+- how to find magnitude
+- parallelogram rule
+ 
+---
+
+*Date: 3 December 2024*
 
 Today I took notes on the topics I've mentioned yesterday and also I watched a couple of videos from Linear Algebra course.
 
@@ -9,7 +19,7 @@ Today I took notes on the topics I've mentioned yesterday and also I watched a c
 
 ---
 
-Date: 2 December 2024
+*Date: 2 December 2024*
 
 *Time: 5:47 PM*
 
