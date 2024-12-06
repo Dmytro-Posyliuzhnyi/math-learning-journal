@@ -1,4 +1,10 @@
 
+*Date: 6 December 2024*
+
+Today I solved a couple more problems related to unit vectors. Later on I will also need to take a notes on __typical notations used in linear algebra__.
+
+---
+
 *Date: 5 December 2024*
 
 Today, I spent a little time studying math. I learned about unit vectors, but I'll need to gather more information on the topic because later on during the exercises some aspects weren't entirely clear. I also learned about the parallelogram rule for vector addition. To make sure I don't forget to take notes, I'll leave a list here:
