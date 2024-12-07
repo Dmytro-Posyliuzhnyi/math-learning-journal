@@ -1,6 +1,12 @@
 
 *Date: 7 December 2024*
 
+*Time: 11:10 PM*
+
+I watched videos on linear combinations and span and took notes on them, but I haven't finished yet. I plan to finish tomorrow and share the notes here. I also discovered the 3Blue1Brown website, which has excellent lessons on Linear Algebra. I've watched it's videos on YouTube before but never knew about the website - it seems to be a great place to learn about this topic.
+
+*Time: 7:17 PM*
+
 Today, I took notes on unit vectors and the parametric representation of lines. I decided to skip the notes on how to find magnitudes, the parallelogram rule, and typical notations, as they seem redundant at this point. Here are the notes:
 
 <img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/ff741800-0723-45bb-b793-dc1babadbd96">
