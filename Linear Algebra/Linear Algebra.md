@@ -1,4 +1,16 @@
 
+*Date: 7 December 2024*
+
+Today, I took notes on unit vectors and the parametric representation of lines. I decided to skip the notes on how to find magnitudes, the parallelogram rule, and typical notations, as they seem redundant at this point. Here are the notes:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/ff741800-0723-45bb-b793-dc1babadbd96">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/7a6592ef-3ba1-492c-9ebf-7f137477b8a2">
+<img width="300" alt="Page 3" src="https://github.com/user-attachments/assets/101d4a67-af83-4a4a-8bce-965dc506de62">
+
+I feel like it's going slower than I expected, mainly because I don't yet see the bigger picture of linear algebra. It was the same when I started Calculus, I had a similar issue at the beginning, but it was solved just by learning and practicing more, so I will have the same approach with Linear Algebra.
+
+---
+
 *Date: 6 December 2024*
 
 Today I solved a couple more problems related to unit vectors. Later on I will also need to take a notes on __typical notations used in linear algebra__.
