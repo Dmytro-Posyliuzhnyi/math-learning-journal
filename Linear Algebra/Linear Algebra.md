@@ -1,4 +1,18 @@
 
+*Date: 8 December 2024*
+
+Finished notes on linear combinations, span, and a bit on linear dependence and independence:
+
+<img width="250" alt="Page 1" src="https://github.com/user-attachments/assets/1117315e-bdbd-4080-9c44-2a00b9b5fd43">
+<img width="250" alt="Page 2" src="https://github.com/user-attachments/assets/d4e39a88-974b-4a52-b7e3-98206026dfe1">
+<img width="250" alt="Page 3" src="https://github.com/user-attachments/assets/1065abd8-b6df-4c24-835c-7440dec6da25">
+<img width="250" alt="Page 4" src="https://github.com/user-attachments/assets/fc321043-da65-454b-b42f-2ebfc952db04">
+<img width="250" alt="Page 5" src="https://github.com/user-attachments/assets/4f969216-c466-40fb-aac7-aa5c59c48821">
+
+I really wanted to draw a three-dimensional space to explain the concept of span, but when I tried, it felt too ambitious for my drawing skills. However, I think I'll improve with practice because most concepts click for me when I visualize them, either using Desmos or purely in my head. I think this could be valuable, but I won't lie, I enjoy the process of drawing things like that.
+
+---
+
 *Date: 7 December 2024*
 
 *Time: 11:10 PM*
