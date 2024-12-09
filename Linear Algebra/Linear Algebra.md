@@ -1,4 +1,12 @@
 
+*Date: 9 December 2024*
+
+Today, I watched additional videos on linear dependence and independence. I plan to take more notes on this topic, as I want to include more examples and a more rigorous definition. Additionally, I have started learning about linear subspaces and the basis of a subspace, so I will also need to take notes on that. 
+
+I came across [notes on subspaces](https://textbooks.math.gatech.edu/ila/subspaces.html) (along with other related topics) from the Georgia Institute of Technology, which I can use as a reference when I'm gonna take notes.
+
+---
+
 *Date: 8 December 2024*
 
 Finished notes on linear combinations, span, and a bit on linear dependence and independence:
