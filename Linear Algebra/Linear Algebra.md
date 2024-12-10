@@ -1,4 +1,15 @@
 
+*Date: 10 December 2024*
+
+I complemented my notes on linear dependence and independence and also took notes on linear subspaces and the basis of a subspace. It's a bit challenging to take notes while watching explanations with visual animations, as my notes end up being purely text-based. I'm afraid that later on, when I will refine these notes, I might face some difficulties. Additionally, the amount of notes for the Linear Algebra course seems higher than usual because many concepts are new to me, but I just don't want to lose any important information, so I'm trying to write down everything that helps me understand the bigger picture.
+
+<img width="240" alt="Page 1" src="https://github.com/user-attachments/assets/d0721efd-27b3-48fc-83ac-50fd1da27ae4">
+<img width="240" alt="Page 2" src="https://github.com/user-attachments/assets/289f0168-b3fa-474c-b1a7-d484c304fe56">
+<img width="240" alt="Page 3" src="https://github.com/user-attachments/assets/783ffe8c-bfb4-46d9-91c4-8a12ba73b4b4">
+<img width="240" alt="Page 4" src="https://github.com/user-attachments/assets/70926704-7159-49ef-a219-5527d7738931">
+
+---
+
 *Date: 9 December 2024*
 
 Today, I watched additional videos on linear dependence and independence. I plan to take more notes on this topic, as I want to include more examples and a more rigorous definition. Additionally, I have started learning about linear subspaces and the basis of a subspace, so I will also need to take notes on that. 
