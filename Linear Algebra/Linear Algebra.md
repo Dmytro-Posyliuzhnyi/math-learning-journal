@@ -1,4 +1,14 @@
 
+*Date: 11 December 2024*
+
+Today, I learned about the following topics and need to take notes on them:
+
+- Vector dot product
+- Vector length
+- Cauchy-Schwarz inequality and its proof
+
+---
+
 *Date: 10 December 2024*
 
 I complemented my notes on linear dependence and independence and also took notes on linear subspaces and the basis of a subspace. It's a bit challenging to take notes while watching explanations with visual animations, as my notes end up being purely text-based. I'm afraid that later on, when I will refine these notes, I might face some difficulties. Additionally, the amount of notes for the Linear Algebra course seems higher than usual because many concepts are new to me, but I just don't want to lose any important information, so I'm trying to write down everything that helps me understand the bigger picture.
