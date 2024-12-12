@@ -1,11 +1,22 @@
 
+*Date: 12 December 2024*
+
+Today, I took notes on what I planned yesterday:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/b73ebc58-b458-413f-b04a-281b6b2acbbe">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/2893b835-891f-4d70-8f5f-e3c749e3f9d2">
+
+As I mentioned in the notes, for now, they're too abstract and general, but later on, I will try to connect these concepts to get a clearer picture of what they mean.
+
+---
+
 *Date: 11 December 2024*
 
 Today, I learned about the following topics and need to take notes on them:
 
-- Vector dot product
-- Vector length
-- Cauchy-Schwarz inequality and its proof
+- Vector dot product ✅
+- Vector length ✅
+- Cauchy-Schwarz inequality and its proof ✅
 
 ---
 
