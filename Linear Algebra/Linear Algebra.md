@@ -11,6 +11,13 @@ Learned about definition of the angle between vectors.
 
 Later on I will write notes on both topics I learned today and will try to connect this with what I've learned previously.
 
+*Time: 9:32 PM*
+
+Took notes on vector triangle inequality and angle between vectors:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/d4f33151-ad48-4aec-b976-f1626db97279">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/392ee619-6021-4bf3-b9ca-0e26d999ca78">
+
 ---
 
 *Date: 12 December 2024*
