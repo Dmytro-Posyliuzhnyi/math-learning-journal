@@ -1,4 +1,12 @@
 
+*Date: 14 December 2024*
+
+*Time: 1:08 PM*
+
+Learned about vector triangle inequality.
+
+---
+
 *Date: 12 December 2024*
 
 Today, I took notes on what I planned yesterday:
