@@ -5,6 +5,12 @@
 
 Learned about vector triangle inequality.
 
+*Time: 4:13 PM*
+
+Learned about definition of the angle between vectors. 
+
+Later on I will write notes on both topics I learned today and will try to connect this with what I've learned previously.
+
 ---
 
 *Date: 12 December 2024*
