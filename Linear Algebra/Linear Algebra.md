@@ -1,4 +1,13 @@
 
+*Date: 15 December 2024*
+
+Today, I learned a lot about the dot product and the cross product. As I was already mentioning during my Calculus course, sometimes when I can't get an intuition for a concept, I just need to consistently keep learning, and eventually, it will click. That moment happened today - I finally got the intuition behind the dot product and the cross product. I will need to takes notes on:
+- cross product
+- relationship between cross product and sin of angle (with proof)
+- Dot and cross product comparison/intuition [(Reference video)](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition)
+
+---
+
 *Date: 14 December 2024*
 
 *Time: 1:08 PM*
