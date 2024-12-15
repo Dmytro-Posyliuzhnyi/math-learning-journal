@@ -6,6 +6,8 @@ Today, I learned a lot about the dot product and the cross product. As I was alr
 - relationship between cross product and sin of angle (with proof)
 - Dot and cross product comparison/intuition [(Reference video)](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition)
 
+I have a couple of videos left before I start working with matrices. I found an introduction to matrices in the Precalculus course on Khan Academy, and I may need to take a look at it to grasp the basic concepts. [(Matrices | Precalculus)](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices)
+
 ---
 
 *Date: 14 December 2024*
