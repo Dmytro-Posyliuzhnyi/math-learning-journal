@@ -1,10 +1,18 @@
 
+*Date: 17 December 2024*
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/e3a78440-1807-44d0-8792-665b37ef66fb">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/7fbad359-d981-49ba-98f1-4471567a1d7b">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/54ce5a90-8f9c-484f-854e-9377543bdcc1">
+
+---
+
 *Date: 15 December 2024*
 
 Today, I learned a lot about the dot product and the cross product. As I was already mentioning during my Calculus course, sometimes when I can't get an intuition for a concept, I just need to consistently keep learning, and eventually, it will click. That moment happened today - I finally got the intuition behind the dot product and the cross product. I will need to takes notes on:
-- cross product
-- relationship between cross product and sin of angle (with proof)
-- Dot and cross product comparison/intuition [(Reference video)](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition)
+- cross product ✅
+- relationship between cross product and sin of angle (with proof) ✅
+- Dot and cross product comparison/intuition [(Reference video)](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition) ✅
 
 I have a couple of videos left before I start working with matrices. I found an introduction to matrices in the Precalculus course on Khan Academy, and I may need to take a look at it to grasp the basic concepts. [(Matrices | Precalculus)](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices)
 
