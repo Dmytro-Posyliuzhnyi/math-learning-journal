@@ -1,4 +1,13 @@
 
+*Date: 18 December 2024*
+
+Learned about the following topics and need to take notes on them:
+- Lagrange's Formula
+- Normal vector from plane equation
+- Following notation of vector: $`\displaystyle \vec{v} = x \hat{i} + y \hat{j} + z \hat{k}`$
+
+---
+
 *Date: 17 December 2024*
 
 <img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/e3a78440-1807-44d0-8792-665b37ef66fb">
