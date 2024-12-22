@@ -1,4 +1,13 @@
 
+*Date: 22 December 2024*
+
+Complementing the notes I need to take:
+
+- Point distance to plane
+- Distance between planes
+
+---
+
 *Date: 18 December 2024*
 
 Learned about the following topics and need to take notes on them:
