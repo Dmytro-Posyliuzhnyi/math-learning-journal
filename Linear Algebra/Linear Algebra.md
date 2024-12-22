@@ -1,19 +1,26 @@
 
 *Date: 22 December 2024*
 
+*Time: 1:05 PM*
+
 Complementing the notes I need to take:
 
-- Point distance to plane
-- Distance between planes
+- Point distance to plane ✅
+- Distance between planes ✅
+
+*Time: 9:13 PM*
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/a697d40c-0cfa-41f2-a993-65be073ecbed">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/da59af7a-2554-4d85-8235-069bb65d73a7">
 
 ---
 
 *Date: 18 December 2024*
 
 Learned about the following topics and need to take notes on them:
-- Lagrange's Formula
-- Normal vector from plane equation
-- Following notation of vector: $`\displaystyle \vec{v} = x \hat{i} + y \hat{j} + z \hat{k}`$
+- Lagrange's Formula ✅
+- Normal vector from plane equation ✅ 
+- Following notation of vector: $`\displaystyle \vec{v} = x \hat{i} + y \hat{j} + z \hat{k}`$ ✅
 
 ---
 
