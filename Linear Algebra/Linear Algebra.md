@@ -1,4 +1,15 @@
 
+*Date: 23 December 2024*
+
+Before moving on to the next videos in the Linear Algebra course, which are related to matrices, I decided to go through the unit on matrices from the Algebra course to refresh my basic knowledge of matrices. I will need to take notes on:
+
+- Introduction to matrices
+- Representing linear systems with matrices
+- Matrix row operations
+- Examples of solving simple systems of equations
+
+---
+
 *Date: 22 December 2024*
 
 *Time: 1:05 PM*
