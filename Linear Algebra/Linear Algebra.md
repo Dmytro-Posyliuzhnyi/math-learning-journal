@@ -1,12 +1,22 @@
 
+*Date: 25 December 2024*
+
+Today I made notes on the introductory topics related to matrices as planned:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/0cf9f3cd-252e-4e5c-bb85-826f4af2d1e6">
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/35785e80-b511-4779-8720-cd83101caf0a">
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/46b67072-97e3-4543-8449-fbfd50fed796">
+
+---
+
 *Date: 23 December 2024*
 
 Before moving on to the next videos in the Linear Algebra course, which are related to matrices, I decided to go through the unit on matrices from the Algebra course to refresh my basic knowledge of matrices. I will need to take notes on:
 
-- Introduction to matrices
-- Representing linear systems with matrices
-- Matrix row operations
-- Examples of solving simple systems of equations
+- Introduction to matrices ✅
+- Representing linear systems with matrices ✅
+- Matrix row operations ✅
+- Examples of solving simple systems of equations ✅
 
 ---
 
