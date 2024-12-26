@@ -1,4 +1,15 @@
 
+*Date: 26 December 2024*
+
+I will need to take notes on:
+
+- reduced row echelon form
+- adding & subtracting matrices
+
+For the last couple of days I'm more focused on ML and trying to apply the math knowledge I've built in ML. It gives me a much clearer picture as I find most of the topics understandable just because I've been going through them while learning math, so that's great. At the same time I'm trying to keep up learning more advanced math topics as the are still a lot of them uncovered which will help me much more in future.
+
+---
+
 *Date: 25 December 2024*
 
 Today I made notes on the introductory topics related to matrices as planned:
