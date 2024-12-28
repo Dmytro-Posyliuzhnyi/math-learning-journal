@@ -1,10 +1,20 @@
 
 *Date: 27 December 2024*
 
+*Time: 1:36 PM*
+
 Additional notes I need to take:
-- Multiplying matrices by scalars
-- Properties of matrix addition
-- Properties of matrix scalar multiplication
+- Multiplying matrices by scalars ✅
+- Properties of matrix addition ✅
+- Properties of matrix scalar multiplication ✅
+
+*Time: 2:15 PM*
+
+Took all the notes I had planned, except for the notes on reduced row echelon form. I decided to postpone this topic until the moment when I actively start solving linear systems of equations. Maybe then I'll be able to structure it in a better way.
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/2400914e-8a62-48e4-b994-e370236fb504">
+<img width="300" alt="Page 2" src="https://github.com/user-attachments/assets/4b24ad80-aae9-4f7c-afbc-863c1ecbfb7c">
+<img width="300" alt="Page 3" src="https://github.com/user-attachments/assets/00e6e489-1a15-4aec-abc7-7e79650240a3">
 
 ---
 
@@ -12,8 +22,8 @@ Additional notes I need to take:
 
 I will need to take notes on:
 
-- reduced row echelon form
-- adding & subtracting matrices
+- reduced row echelon form ❌
+- adding & subtracting matrices ✅
 
 For the last couple of days I'm more focused on ML and trying to apply the math knowledge I've built in ML. It gives me a much clearer picture as I find most of the topics understandable just because I've been going through them while learning math, so that's great. At the same time I'm trying to keep up learning more advanced math topics as the are still a lot of them uncovered which will help me much more in future.
 
