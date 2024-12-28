@@ -1,4 +1,13 @@
 
+*Date: 27 December 2024*
+
+Additional notes I need to take:
+- Multiplying matrices by scalars
+- Properties of matrix addition
+- Properties of matrix scalar multiplication
+
+---
+
 *Date: 26 December 2024*
 
 I will need to take notes on:
