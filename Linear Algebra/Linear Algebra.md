@@ -6,6 +6,8 @@ I've finally returned to studying math. Over the past couple of weeks, I was foc
 - Matrices Multiplication
 - Defined Matrix Operations
 - Intro to Identity Matrix
+  - Dimensions of identity matrix
+- Properties of Matrix Multiplication
 
 ---
 
