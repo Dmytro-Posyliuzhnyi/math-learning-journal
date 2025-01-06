@@ -1,4 +1,14 @@
 
+*Date: January 6, 2025*
+
+I've finally returned to studying math. Over the past couple of weeks, I was focused more on machine learning, but I realized I need to stay consistent with math as well. Today, I learned about and need to take notes on:
+
+- Matrices Multiplication
+- Defined Matrix Operations
+- Intro to Identity Matrix
+
+---
+
 *Date: 27 December 2024*
 
 *Time: 1:36 PM*
