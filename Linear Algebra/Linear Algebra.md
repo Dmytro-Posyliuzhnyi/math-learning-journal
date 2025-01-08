@@ -1,13 +1,23 @@
 
+*Date: January 8, 2025*
+
+Took all notes I had planned recently:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/b6a5ae89-7862-4fbd-8db4-f58b03ab6277">
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/f2b30138-0bf6-4bc6-81fe-c8cc3fb0321b">
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/4ef96c15-a7ed-45c5-8789-ee8380d0764f">
+
+---
+
 *Date: January 6, 2025*
 
 I've finally returned to studying math. Over the past couple of weeks, I was focused more on machine learning, but I realized I need to stay consistent with math as well. Today, I learned about and need to take notes on:
 
-- Matrices Multiplication
-- Defined Matrix Operations
-- Intro to Identity Matrix
-  - Dimensions of identity matrix
-- Properties of Matrix Multiplication
+- Matrices Multiplication ✅
+- Defined Matrix Operations ✅
+- Intro to Identity Matrix ✅
+  - Dimensions of identity matrix ✅
+- Properties of Matrix Multiplication ✅
 
 ---
 
