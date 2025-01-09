@@ -1,4 +1,15 @@
 
+*Date: January 9, 2025*
+
+Today, I learned about and need to take notes on:
+
+- Transforming vectors using matrices
+- Matrices as transformations
+
+Most likely, for now I will take only introductory notes on matrices as transformations, as currently these topics are based on Algebra 2 course and later on when I will switch back to Linear Algebra course, with high probability it will cover more advanced topics related to matrices transformations.
+
+---
+
 *Date: January 8, 2025*
 
 Took all notes I had planned recently:
