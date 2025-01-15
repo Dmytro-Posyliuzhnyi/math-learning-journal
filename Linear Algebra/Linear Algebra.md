@@ -1,4 +1,12 @@
 
+*Date: January 15, 2025*
+
+Today, I finished the introductory part on linear transformations. During the next study session, I will review the introduction to linear transformations once again and take notes on it (leaving this link here to remember to review it: [3Blue1Brown](https://www.3blue1brown.com/lessons/linear-transformations)). 
+
+I need to hurry and finish the Linear Algebra course on Khan Academy so I can move on to Calculus 2, as it seems like it's taking longer than usual because of other things I try to learn.
+
+---
+
 *Date: January 9, 2025*
 
 Today, I learned about and need to take notes on:
