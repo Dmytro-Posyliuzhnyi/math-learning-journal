@@ -1,4 +1,12 @@
 
+*Date: January 16, 2025*
+
+Today I took notes on transformation of vectors using matrices, explanation of word "transformation" and more rigorous definition of **linear transformation**.
+
+Tomorrow I will share the notes here, I need to finish them first.
+
+---
+
 *Date: January 15, 2025*
 
 Today, I finished the introductory part on linear transformations. During the next study session, I will review the introduction to linear transformations once again and take notes on it (leaving this link here to remember to review it: [3Blue1Brown](https://www.3blue1brown.com/lessons/linear-transformations)). 
