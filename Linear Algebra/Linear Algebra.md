@@ -1,4 +1,14 @@
 
+*Date: January 17, 2025*
+
+Completed notes on the basics of linear transformations:
+
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/ce64ac80-a7ce-422c-bc2e-00f1ca3e78bd">
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/c12110c2-60d7-458c-8423-6e1dd1b88edd">
+<img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/dc68da35-cd3f-41b5-b361-3014fa3d3cf4">
+
+---
+
 *Date: January 16, 2025*
 
 Today I took notes on transformation of vectors using matrices, explanation of word "transformation" and more rigorous definition of **linear transformation**.
@@ -19,8 +29,8 @@ I need to hurry and finish the Linear Algebra course on Khan Academy so I can mo
 
 Today, I learned about and need to take notes on:
 
-- Transforming vectors using matrices
-- Matrices as transformations
+- Transforming vectors using matrices ✅
+- Matrices as transformations ✅
 
 Most likely, for now I will take only introductory notes on matrices as transformations, as currently these topics are based on Algebra 2 course and later on when I will switch back to Linear Algebra course, with high probability it will cover more advanced topics related to matrices transformations.
 
