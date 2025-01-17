@@ -1,11 +1,20 @@
 
 *Date: January 17, 2025*
 
+*Time: 8:36 PM*
+
 Completed notes on the basics of linear transformations:
 
 <img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/ce64ac80-a7ce-422c-bc2e-00f1ca3e78bd">
 <img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/c12110c2-60d7-458c-8423-6e1dd1b88edd">
 <img width="300" alt="Page 1" src="https://github.com/user-attachments/assets/dc68da35-cd3f-41b5-b361-3014fa3d3cf4">
+
+*Time: 10:20 PM*
+
+Learned about and need to take notes on:
+
+- determinant of 2x2 matrix
+- intro to matrix inverses
 
 ---
 
