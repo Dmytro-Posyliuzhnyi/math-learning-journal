@@ -1,12 +1,23 @@
 
 *Date: January 18, 2025*
 
+*Time: 2:08 PM*
+
 Learned about and need to take notes on:
 
 - Determinant of a 3x3 matrix
 - Inverting a 3x3 matrix using Gaussian elimination
 
 I'm not sure if it makes sense to write notes on inverting a 3x3 matrix using determinants, as it's computationally intensive and doesn't bring much value at this point. But actually, it’s a nice exercise, so I might still write it down to warm up my brain. 
+
+*Time: 2:30 PM*
+
+Additional topics to note down:
+
+- Expressing linear systems as matrix
+- Basics of solving linear systems using matrices
+
+Finished the matrices unit (from the Algebra II course) and switching back to the Linear Algebra course.
 
 ---
 
