@@ -1,4 +1,15 @@
 
+*Date: January 18, 2025*
+
+Learned about and need to take notes on:
+
+- Determinant of a 3x3 matrix
+- Inverting a 3x3 matrix using Gaussian elimination
+
+I'm not sure if it makes sense to write notes on inverting a 3x3 matrix using determinants, as it's computationally intensive and doesn't bring much value at this point. But actually, it’s a nice exercise, so I might still write it down to warm up my brain. 
+
+---
+
 *Date: January 17, 2025*
 
 *Time: 8:36 PM*
@@ -13,7 +24,7 @@ Completed notes on the basics of linear transformations:
 
 Learned about and need to take notes on:
 
-- determinant of 2x2 matrix
+- determinant of a 2x2 matrix
 - intro to matrix inverses
 
 ---
