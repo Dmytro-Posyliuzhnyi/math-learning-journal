@@ -1,12 +1,25 @@
 
+*Date: January 19, 2025*
+
+*Time: 2:19 PM*
+
+I took all the notes I planned, except for inverting a 3x3 matrix using Gaussian elimination or determinants. I realized those notes might be unnecessary and would just be notes for the sake of it.
+
+<img width="230" alt="Page 1" src="https://github.com/user-attachments/assets/db4bca65-1679-4d1a-a473-e7aae9acfb0c">
+<img width="230" alt="Page 2" src="https://github.com/user-attachments/assets/40c59951-1c90-4324-9ecd-9e64f4192e6b">
+<img width="230" alt="Page 3" src="https://github.com/user-attachments/assets/f070d17f-db3f-44cd-ac98-c27a02e1e250">
+<img width="230" alt="Page 4" src="https://github.com/user-attachments/assets/fe9705af-8032-4a1f-96af-bece088b443b">
+
+---
+
 *Date: January 18, 2025*
 
 *Time: 2:08 PM*
 
 Learned about and need to take notes on:
 
-- Determinant of a 3x3 matrix
-- Inverting a 3x3 matrix using Gaussian elimination
+- Determinant of a 3x3 matrix ✅
+- Inverting a 3x3 matrix using Gaussian elimination ❌
 
 I'm not sure if it makes sense to write notes on inverting a 3x3 matrix using determinants, as it's computationally intensive and doesn't bring much value at this point. But actually, it’s a nice exercise, so I might still write it down to warm up my brain. 
 
@@ -14,8 +27,8 @@ I'm not sure if it makes sense to write notes on inverting a 3x3 matrix using de
 
 Additional topics to note down:
 
-- Expressing linear systems as matrix
-- Basics of solving linear systems using matrices
+- Expressing linear systems as matrix ✅
+- Basics of solving linear systems using matrices ✅
 
 Finished the matrices unit (from the Algebra II course) and switching back to the Linear Algebra course.
 
@@ -35,8 +48,8 @@ Completed notes on the basics of linear transformations:
 
 Learned about and need to take notes on:
 
-- determinant of a 2x2 matrix
-- intro to matrix inverses
+- determinant of a 2x2 matrix ✅
+- intro to matrix inverses ✅
 
 ---
 
