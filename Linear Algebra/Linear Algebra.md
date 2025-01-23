@@ -1,4 +1,12 @@
 
+*Date: January 23, 2025*
+
+*Time: 8:04 PM*
+
+Took notes on  **row-echelon form**. Today, later on I will continue taking notes on **null space**.
+
+---
+
 *Date: January 21, 2025*
 
 Today, I learned more about **row-echelon form**. I had previously planned to take notes on this topic but postponed it, and now seems like a good time to do so. I also learned about the **null space**, how to calculate it, and its relation to linear independence. Before starting the next topics, it would be nice to take notes on the ones I've learned about today and develop more intuition behind them.
