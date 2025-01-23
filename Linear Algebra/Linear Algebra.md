@@ -5,6 +5,14 @@
 
 Took notes on  **row-echelon form**. Today, later on I will continue taking notes on **null space**.
 
+*Time: 11:27 PM*
+
+Finalized the notes:
+
+<img width="230" alt="Page 1" src="https://github.com/user-attachments/assets/da717ac3-276d-40f3-a16a-5da1bd00cc9f">
+<img width="230" alt="Page 2" src="https://github.com/user-attachments/assets/7fc8ed59-fd15-45ad-a7ce-b899301b02e5">
+<img width="230" alt="Page 3" src="https://github.com/user-attachments/assets/bc5998ea-2978-4be2-b1b9-8a3d7883ec46">
+
 ---
 
 *Date: January 21, 2025*
