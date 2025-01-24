@@ -1,4 +1,17 @@
 
+*Date: January 24, 2025*
+
+*Time: 7:02 PM*
+
+Today, I learned about and need to take notes on:
+
+- The column space of a matrix
+- Free variables
+- The null space and the column space basis
+- I also need to write notes on matrix-vector multiplication because I feel like I might have mixed it up in my mind
+
+---
+
 *Date: January 23, 2025*
 
 *Time: 8:04 PM*
