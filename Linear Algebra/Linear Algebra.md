@@ -14,6 +14,12 @@ Today, I learned about and need to take notes on:
 
 Learned more about the column space of a matrix. I might also need to take notes on how to find the formula for the column space using the example shown in [this video](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/visualizing-a-column-space-as-a-plane-in-r3).
 
+*Time: 11:20 PM*
+
+Need to take additional notes on the **pivot columns of a matrix forming a basis for the column space. Also remember to mention free variables (non-pivot columns)**. I also need to revisit and take a few notes on **nullity**, as the notes I took yesterday are not giving me a clear understanding.
+
+Tomorrow, I have a lot to do, but I would try to find time for math as I'd love to finish Unit 1 on Linear Algebra, which seems quite lengthy. I still have three more topics to cover. After that, I'll take all the notes and start Unit 2.
+
 ---
 
 *Date: January 23, 2025*
