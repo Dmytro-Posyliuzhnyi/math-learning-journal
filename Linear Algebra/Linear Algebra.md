@@ -10,6 +10,10 @@ Today, I learned about and need to take notes on:
 - The null space and the column space basis
 - I also need to write notes on matrix-vector multiplication because I feel like I might have mixed it up in my mind
 
+*Time: 10:50 PM*
+
+Learned more about the column space of a matrix. I might also need to take notes on how to find the formula for the column space using the example shown in [this video](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/visualizing-a-column-space-as-a-plane-in-r3).
+
 ---
 
 *Date: January 23, 2025*
