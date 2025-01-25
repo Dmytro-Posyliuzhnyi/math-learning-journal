@@ -1,4 +1,12 @@
 
+*Date: January 25, 2025*
+
+*Time: 12:43 PM*
+
+Completed Unit 1. The last three topics mainly focused on **rank** and its relationship to column space and nullity. Now I'm starting to write notes on everything I've planned.
+
+---
+
 *Date: January 24, 2025*
 
 *Time: 7:02 PM*
