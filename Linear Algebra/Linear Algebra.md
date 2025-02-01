@@ -1,4 +1,10 @@
 
+*Date: February 1, 2025*
+
+Started Unit 2 and explored a more formal definition of functions in the context of transformations. Since transformations were partially covered in the Algebra II course, some videos in the Linear Algebra course are duplicated. However, I'm still reviewing some of them just to make sure I haven't missed any key concepts.
+
+---
+
 *Date: January 25, 2025*
 
 *Time: 12:43 PM*
