@@ -1,4 +1,10 @@
 
+*Date: February 2, 2025*
+
+Learned more about **image of a subset under a transformation** and **im(T): Image of a transformation**. At the end of the lesson 1, I will take notes on that topic.
+
+---
+
 *Date: February 1, 2025*
 
 Started Unit 2 and explored a more formal definition of functions in the context of transformations. Since transformations were partially covered in the Algebra II course, some videos in the Linear Algebra course are duplicated. However, I'm still reviewing some of them just to make sure I haven't missed any key concepts.
