@@ -1,4 +1,12 @@
 
+*Date: February 3, 2025*
+
+Learned about the **preimage of a set** and the **the kernel**. Two more topics to got and lesson 1 is finished. Before going to lesson 2 will need to take notes on what I've learned. 
+
+I also want to develop a new habit of testing myself on what I learn. Lately, I've seen some research suggesting that this may be an effective way to enhance learning, and over time, I've noticed that it improves my memory. I will probably make it a regular practice.
+
+---
+
 *Date: February 2, 2025*
 
 Learned more about **image of a subset under a transformation** and **im(T): Image of a transformation**. At the end of the lesson 1, I will take notes on that topic.
