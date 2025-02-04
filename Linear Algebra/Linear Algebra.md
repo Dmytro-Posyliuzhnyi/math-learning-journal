@@ -1,4 +1,10 @@
 
+*Date: February 4, 2025*
+
+Learned more about **properties of linear transformations** and completed the lesson 1. Next step is to take the notes and then start the next lesson. 
+
+---
+
 *Date: February 3, 2025*
 
 Learned about the **preimage of a set** and the **the kernel**. Two more topics to got and lesson 1 is finished. Before going to lesson 2 will need to take notes on what I've learned. 
