@@ -1,4 +1,14 @@
 
+*Date: February 8, 2025*
+
+*Time: 14:39 PM*
+
+Took notes on more formal definition of a function and linear transformation. Also took notes on image and preimage of a transformation.
+
+Later on I will finish the notes and share them here. 
+
+---
+
 *Date: February 4, 2025*
 
 Learned more about **properties of linear transformations** and completed the lesson 1. Next step is to take the notes and then start the next lesson. 
