@@ -7,6 +7,12 @@ Took notes on more formal definition of a function and linear transformation. Al
 
 Later on I will finish the notes and share them here. 
 
+*Time: 16:24 PM*
+
+<img width="230" alt="Page 1" src="https://github.com/user-attachments/assets/6819222d-f61b-4565-bc8a-26c9c4200351">
+<img width="230" alt="Page 1" src="https://github.com/user-attachments/assets/415f3b12-9ebd-4aa5-932f-367011a44149">
+<img width="230" alt="Page 1" src="https://github.com/user-attachments/assets/d14e9608-4fa7-4321-8d06-be82745de4b2">
+
 ---
 
 *Date: February 4, 2025*
