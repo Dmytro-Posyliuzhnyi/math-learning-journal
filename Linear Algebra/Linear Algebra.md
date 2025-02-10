@@ -1,4 +1,10 @@
 
+*Date: February 10, 2025*
+
+Today, I learned about **rotation in 3D**, explored **unit vectors in more depth**, and started learning about **projections**. I've finished Lesson 2, so I need to take notes before starting Lesson 3, which covers *Transformations and Matrix Multiplication*. The lesson names are somewhat repetitive and similar, but each one actually contains different information.
+
+---
+
 *Date: February 9, 2025*
 
 Today started Lesson 2 which is about linear transformation examples. First two topics were related to **examples of scaling, reflecting and rotating vectors in 2D**. Will need to take short notes on that later on.
